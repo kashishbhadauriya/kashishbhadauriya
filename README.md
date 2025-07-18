@@ -1,18 +1,22 @@
-[!MasterHead](https://dribbble.com/shots/23316973-Man-programmer-writing-code-and-making-web-design-on-a-PC)
+
 <h1 align="center">Hi 👋, I'm Kashish Bhadauriya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/23316973-Man-programmer-writing-code-and-making-web-design-on-a-PC">
+<img src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishbhadauriya&label=Profile%20views&color=0e75b6&style=flat" alt="kashishbhadauriya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashishbhadauriya" alt="kashishbhadauriya" /></a> </p>
+- 🌱 I’m currently learning **Web development**
+
+- 💬 Ask me about **C++,HTML,CSS,jS,Node js**
 
 - 📫 How to reach me **2k23.csai2310628@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kashish bhadauriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashish bhadauriya" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kbhadauriya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kbhadauriya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@2k23_csai2310628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2k23_csai2310628" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kbhadauriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kbhadauriya" height="30" width="40" /></a>
 </p>
 
