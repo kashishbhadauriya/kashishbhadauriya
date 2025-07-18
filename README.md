@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kashish Bhadauriya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" alt="">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishbhadauriya&label=Profile%20views&color=0e75b6&style=flat" alt="kashishbhadauriya" /> </p>
